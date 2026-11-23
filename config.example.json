@@ -1,0 +1,8 @@
+{
+  "ollama_url": "http://localhost:11434/",
+  "model_name": "gemma3:4b",
+  "hotkey_translate": "ctrl+shift+t",
+  "hotkey_ocr": "ctrl+shift+o",
+  "translate_prompt": "將以下內容翻譯成繁體中文。專有名詞要保留原文。直接輸出翻譯結果，不要包含任何解釋：",
+  "chat_prompt": "你是一個繁體中文的 AI 助理，回答請簡潔精確。"
+}

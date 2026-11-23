@@ -1,0 +1,11 @@
+build/
+dist/
+dist_v1/
+myTranslator.spec
+Local_LLM_Translator.spec
+*.7z
+model/
+config.json
+.venv/
+.vscode/
+.cursor/
